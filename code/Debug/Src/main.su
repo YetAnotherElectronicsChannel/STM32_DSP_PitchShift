@@ -1,0 +1,10 @@
+main.c:75:5:main	8	static
+main.c:101:5:Do_HighPass	24	static
+main.c:125:5:Do_PitchShift	48	static
+main.c:174:6:HAL_I2SEx_TxRxHalfCpltCallback	32	static
+main.c:191:6:HAL_I2SEx_TxRxCpltCallback	32	static
+main.c:209:6:SystemClock_Config	104	static
+main.c:260:13:MX_I2S2_Init	8	static
+main.c:292:13:MX_DMA_Init	16	static
+main.c:312:13:MX_GPIO_Init	56	static
+main.c:437:6:Error_Handler	4	static
